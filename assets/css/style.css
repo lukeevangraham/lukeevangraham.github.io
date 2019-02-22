@@ -95,3 +95,18 @@ a:visited {
     padding-top: 40px;
     margin-top: 40px;
 }
+
+.imageandtext {
+    float: left;
+    padding: 20px;
+}
+
+.centered {
+    position: absolute;
+    margin-top: -55px;
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #ffffff;
+    width: 270px;
+    text-align: center;
+}
