@@ -103,7 +103,8 @@ a:visited {
 
 .imageandtext {
     float: left;
-    padding: 20px;
+    margin-right: 32px;
+    margin-bottom: 37px;
 }
 
 .centered {
@@ -111,6 +112,7 @@ a:visited {
     margin-top: -55px;
     background-color: #4aaaa5;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 18px;
     color: #ffffff;
     width: 270px;
     text-align: center;
