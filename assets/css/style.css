@@ -58,7 +58,7 @@ h1 {
 h2 {
     float: right;
     margin-top: 0;
-    font-size: 17px;
+    font-size: 17.5px;
     font-weight: initial;
     padding: 25px;
 }
@@ -80,12 +80,12 @@ h3 {
 
 a:link {
     text-decoration: none;
-    color: gray;
+    color: #a7a7a7;
 }
 
 a:visited {
     text-decoration: none;
-    color: gray;
+    color: #a7a7a7;
 }
 
 .footer {
@@ -125,4 +125,8 @@ a:visited {
 hr.custom {
     border: 1.5px solid #dddddd;
     margin-bottom: 25px;
+}
+
+p {
+    margin-bottom: 20px;
 }
