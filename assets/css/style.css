@@ -28,6 +28,7 @@ header {
 
 .container {
     flex: 1 0 auto;
+    overflow: hidden;
 }
 
 #main-content {
@@ -109,4 +110,10 @@ a:visited {
     color: #ffffff;
     width: 270px;
     text-align: center;
+}
+
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
 }
