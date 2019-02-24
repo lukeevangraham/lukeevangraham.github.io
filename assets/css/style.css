@@ -45,11 +45,12 @@ header {
 
 h1 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
-    font-size: 28px;
+    font-size: 30px;
+    font-weight: 600;
     background-color: #4aaaa5;
     color: white;
     float: left;
-    padding: 20px;
+    padding: 21px;
     margin-right: 250px;
     margin-top: 0;
 }
@@ -57,15 +58,18 @@ h1 {
 h2 {
     float: right;
     margin-top: 0;
-    padding: 20px;
-    font-size: 15px;
+    font-size: 17px;
+    font-weight: initial;
+    padding: 25px;
 }
 
 h3 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
-    font-size: 24px;
+    font-weight: bold;
+    font-size: 27px;
     color: #4aaaa5;
-    margin-top: 15px;
+    margin-top: 8px;
+    margin-bottom: 23px;
 }
 
 #bio-image {
@@ -76,12 +80,12 @@ h3 {
 
 a:link {
     text-decoration: none;
-    color: #777777;
+    color: gray;
 }
 
 a:visited {
     text-decoration: none;
-    color: #777777;
+    color: gray;
 }
 
 .footer {
