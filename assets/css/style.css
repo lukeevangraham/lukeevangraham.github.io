@@ -135,11 +135,24 @@ p {
     margin-bottom: 20px;
 }
 
-.formy {
+/* .formz { */
+    /* padding: 20px 10px; */
+    /* line-height: 70px; */
+    /* box-sizing: border-box; */
+/* } */
+
+textarea {
+    padding: 20px 10px;
+    line-height: 70px;
+    box-sizing: border-box;
+    width: 899px;
+    border: 1px solid #dddddd;
+}
+
+input[type=text] {
     position: absolute;
     border: 1px solid #dddddd;
     width: 880px;
-    resize: none;
     padding: 8px;
     font-size: 11px;
     color: #919191;
@@ -147,5 +160,5 @@ p {
 
 .hide {
     visibility: hidden;
-    margin-top: 50px;
+    margin-top: 80px;
 }
