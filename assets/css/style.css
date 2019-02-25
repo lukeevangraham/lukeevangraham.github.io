@@ -149,11 +149,14 @@ textarea {
     /* padding: 20px 10px; */
     /* line-height: 70px; */
     box-sizing: border-box;
-    width: 899px;
+    padding: 8px;
+    width: 898px;
     border: 1px solid #dddddd;
 }
 
-.hide {
-    visibility: hidden;
-    margin-top: 80px;
+button {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 7px 25px;
+    font-size: 14px;
 }
