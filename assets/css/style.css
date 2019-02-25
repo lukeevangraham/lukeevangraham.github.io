@@ -136,7 +136,16 @@ p {
 }
 
 .formy {
+    position: absolute;
     border: 1px solid #dddddd;
-    width: 99.25%;
+    width: 880px;
     resize: none;
+    padding: 8px;
+    font-size: 11px;
+    color: #919191;
+}
+
+.hide {
+    visibility: hidden;
+    margin-top: 50px;
 }
