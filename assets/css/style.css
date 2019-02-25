@@ -136,6 +136,7 @@ p {
 }
 
 .formy {
-    border-color: #dddddd;
-    width: 100%;
+    border: 1px solid #dddddd;
+    width: 99.25%;
+    resize: none;
 }
