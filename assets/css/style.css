@@ -40,7 +40,7 @@ header {
     background-color: #ffffff;
     padding: 30px;
     line-height: 32px;
-    padding-bottom: 50px;
+    padding-bottom: 15px;
 }
 
 h1 {
@@ -159,4 +159,5 @@ button {
     color: white;
     padding: 7px 25px;
     font-size: 14px;
+    margin-bottom: 10px;
 }
