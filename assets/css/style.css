@@ -83,6 +83,7 @@ h3 {
 a:link {
     text-decoration: none;
     color: #a7a7a7;
+    transition-duration: 1.25s;
 }
 
 a:visited {
@@ -160,4 +161,20 @@ button {
     padding: 7px 25px;
     font-size: 14px;
     margin-bottom: 10px;
+    transition-duration: 1.25s;
+}
+
+button:hover {
+    background-color: #4681B7;
+    color: white;
+    transition: linear .25s;
+}
+
+button:active {
+    background-color: #B5F6F3;
+}
+
+a:hover {
+    color: #4AA7C1;
+    transition: linear .25s;
 }
