@@ -134,3 +134,8 @@ hr.custom {
 p {
     margin-bottom: 20px;
 }
+
+.formy {
+    border-color: #dddddd;
+    width: 100%;
+}
