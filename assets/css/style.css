@@ -135,20 +135,6 @@ p {
     margin-bottom: 20px;
 }
 
-/* .formz { */
-    /* padding: 20px 10px; */
-    /* line-height: 70px; */
-    /* box-sizing: border-box; */
-/* } */
-
-textarea {
-    padding: 20px 10px;
-    line-height: 70px;
-    box-sizing: border-box;
-    width: 899px;
-    border: 1px solid #dddddd;
-}
-
 input[type=text] {
     position: relative;
     border: 1px solid #dddddd;
@@ -157,6 +143,14 @@ input[type=text] {
     font-size: 11px;
     color: #919191;
     margin-bottom: 11px;
+}
+
+textarea {
+    /* padding: 20px 10px; */
+    /* line-height: 70px; */
+    box-sizing: border-box;
+    width: 899px;
+    border: 1px solid #dddddd;
 }
 
 .hide {
